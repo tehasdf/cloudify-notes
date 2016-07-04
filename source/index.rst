@@ -6,3 +6,4 @@ cloudify-notes
 
    rdb
    execution
+   agentinstall

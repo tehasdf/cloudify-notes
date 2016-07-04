@@ -36,7 +36,7 @@ Workflow execution model
     - https://github.com/cloudify-cosmo/cloudify-plugins-common/blob/master/cloudify/plugins/workflows.py#L23
 
 #. task function calls `graph_mode()` and `execute()` populating the task graph in the ctx
-  - https://github.com/cloudify-cosmo/cloudify-plugins-common/blob/master/cloudify/plugins/lifecycle.py#L172
+    - https://github.com/cloudify-cosmo/cloudify-plugins-common/blob/master/cloudify/plugins/lifecycle.py#L172
 
 #. `CloudifyWorkflowNodeInstance.execute_operation` is called from the workflow func
     - https://github.com/cloudify-cosmo/cloudify-plugins-common/blob/master/cloudify/workflows/workflow_context.py#L254
