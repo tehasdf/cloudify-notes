@@ -99,7 +99,7 @@ PDB primer
 ----------
 
 rdb is simply pdb using a network socket; all the regular pdb commands can
-still be used with it. See the `pdb docs <https://docs.python.org/2/library/pdb.html#debugger-commands`_
+still be used with it. See the `pdb docs <https://docs.python.org/2/library/pdb.html#debugger-commands>`_
 and `this talk <https://www.youtube.com/watch?v=P0pIW5tJrRM>`_ to learn how to use pdb.
 
 
