@@ -1,6 +1,9 @@
 cloudify-notes
 ==========================================
 
+Source is at https://github.com/tehasdf/cloudify-notes - PRs welcome
+
+
 .. toctree::
    :maxdepth: 1
 
