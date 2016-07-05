@@ -7,3 +7,4 @@ cloudify-notes
    rdb
    execution
    agentinstall
+   clean_openstack
