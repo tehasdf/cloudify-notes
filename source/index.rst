@@ -8,3 +8,4 @@ cloudify-notes
    execution
    agentinstall
    clean_openstack
+   agent_source
